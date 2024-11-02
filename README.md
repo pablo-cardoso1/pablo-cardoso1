@@ -3,8 +3,8 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {Análise e desenvolvimentos de sistemas} na {Universidade Estácio de Sá}.
-- 💼 Estou em busca de um trabalho como {Desenvolvedor .NET}.
+- 🎓 Estudando Análise e desenvolvimentos de sistemas na Universidade Estácio de Sá.
+- 💼 Estou em busca de um trabalho como Desenvolvedor .NET.
 - 🌱 Aprendendo mais sobre ASP.NET e boas práticas de desenvolvimento.
 
 ## Minhas Skills
