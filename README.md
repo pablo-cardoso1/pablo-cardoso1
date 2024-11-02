@@ -42,5 +42,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-Pablo%20Cardoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/pablo-cardoso1)](www.linkedin.com/in/pablo-cardoso1)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pabloluiz30@gmail.com)](mailto:pabloluiz30@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pabloluiz30@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pabloluiz30@gmail.com)](mailto:pabloluiz30@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/pablo-cardoso1?label=follow&style=social)](https://github.com/pablo-cardoso1)
